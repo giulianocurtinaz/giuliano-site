@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{titulo_aba}}</title>
+<meta name="description" content="{{descricao}}">
+<link rel="canonical" href="{{url}}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{titulo_aba}}">
+<meta property="og:description" content="{{descricao}}">
+<meta property="og:url" content="{{url}}">
+<meta property="og:image" content="https://giuliano.curtinaz.com.br/assets/img/og.jpg">
+<meta name="theme-color" content="#f5f6f3">
+<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="/assets/fontes/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/estilo.css">
+</head>
+<body class="{{classe}}">
+<a class="pular" href="#conteudo">Pular para o conteúdo</a>
+<header class="topo">
+  <div class="topo-dentro">
+    <a class="assinatura" href="/index.html">Giuliano Curtinaz</a>
+    <nav aria-label="Principal">
+      <ul>
+{{nav}}
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="conteudo">
+{{conteudo}}
+</main>
+<footer class="rodape">
+  <div class="rodape-dentro">
+    <p class="rodape-nome">Giuliano Curtinaz<br><span>Canoas, RS</span></p>
+    <ul class="contatos">
+      <li><a href="https://www.linkedin.com/in/giulianocurtinaz" rel="me noopener">LinkedIn</a></li>
+      <li><a href="http://lattes.cnpq.br/8626182181162345" rel="noopener">Currículo Lattes</a></li>
+      <li><button type="button" class="mostrar-email" data-u="b25haWx1aWc=" data-d="cmIubW9jLnphbml0cnVj">Mostrar e-mail</button></li>
+    </ul>
+    <p class="rodape-nota">© {{ano}} Giuliano Curtinaz. Este site não usa cookies nem rastreadores.</p>
+  </div>
+</footer>
+<dialog class="visor" aria-label="Certificado ampliado">
+  <form method="dialog"><button class="fechar" aria-label="Fechar">Fechar</button></form>
+  <img alt="">
+  <p class="visor-legenda"></p>
+</dialog>
+<script src="/assets/js/site.js" defer></script>
+</body>
+</html>
