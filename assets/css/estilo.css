@@ -96,7 +96,7 @@ main { max-width: var(--largura); margin: 0 auto; padding: clamp(2rem, 6vw, 4.5r
 .retrato::before {
   content: ""; position: absolute; inset: 1.1rem -1.1rem -1.1rem 1.1rem; border: 1.5px solid var(--faixa); border-radius: 4px;
 }
-.retrato img { position: relative; width: 18rem; max-width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; }
+.retrato img { position: relative; width: 22rem; max-width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; }
 
 /* A rota: a linha do tempo desenhada como uma pista, com a faixa central tracejada */
 .secao-rota { margin-top: clamp(3rem, 8vw, 6rem); }
