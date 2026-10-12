@@ -19,7 +19,7 @@ Com espírito inovador e empreendedor, busquei formação acadêmica em ciência
 
 </div>
 <figure class="retrato">
-  <img src="/assets/img/giuliano.webp" alt="Giuliano Curtinaz, de camisa cinza e braços cruzados" width="900" height="997">
+  <img src="/assets/img/giuliano.jpg" alt="Giuliano Curtinaz, de óculos, paletó cinza e camisa laranja" width="288" height="288">
 </figure>
 </section>
 
