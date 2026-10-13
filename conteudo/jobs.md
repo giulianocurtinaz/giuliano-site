@@ -9,7 +9,20 @@ descricao: Empresas de referência onde Giuliano Curtinaz desenvolveu grandes pr
 
 <div class="linha-tempo" id="trajetoria" markdown="1">
 <article class="etapa" markdown="1">
-<p class="periodo">2014 até hoje</p>
+<p class="periodo">Junho de 2021 até hoje</p>
+<img class="logo" src="/assets/img/logos/transcol.png" alt="Transcol Transportes Ltda." width="360" height="183">
+<div markdown="1">
+
+Desenvolvedor de ferramenta de Business Intelligence (B.I.) com foco em demonstrativos de resultados financeiros e criação de indicadores de performance (KPIs).
+
+Implantação do aplicativo [Infonotas](/jobs/infonotas.html) para baixa de entregas e controle de cross-docking.
+
+Desenvolvimento no Latromi, com implantação e desenvolvimento de módulos personalizados.
+
+</div>
+</article>
+<article class="etapa" markdown="1">
+<p class="periodo">2014 a 2021</p>
 <img class="logo" src="/assets/img/logos/btl.png" alt="BTL Soluções Logísticas" width="120" height="144">
 <div markdown="1">
 

@@ -1,9 +1,42 @@
 [
-  {"ano": "1999", "onde": "Interlink Cargo", "o_que": "Sistema de transporte internacional integrado ao Siscomex; depois, controller administrativo e financeiro"},
-  {"ano": "2011", "onde": "ULBRA", "o_que": "Tecnólogo em Processos Gerenciais"},
-  {"ano": "2013", "onde": "Reiter Log", "o_que": "Gestão de TI, ERP, TMS e WMS para uma frota de 1.000 veículos"},
-  {"ano": "2014", "onde": "BTL Soluções Logísticas", "o_que": "Implantação do Avacorp, B.I. financeiro e criação do Infonotas"},
-  {"ano": "2014", "onde": "ESPM-Sul", "o_que": "MBA em Finanças e Governança Corporativa"},
-  {"ano": "2024", "onde": "PUCRS", "o_que": "Extensão em dados e IA aplicados à logística"},
-  {"ano": "2025", "onde": "USP / Esalq", "o_que": "MBA em Data Science & Analytics"}
+  {
+    "ano": "1999",
+    "onde": "Interlink Cargo",
+    "o_que": "Sistema de transporte internacional integrado ao Siscomex; depois, controller administrativo e financeiro"
+  },
+  {
+    "ano": "2011",
+    "onde": "ULBRA",
+    "o_que": "Tecnólogo em Processos Gerenciais"
+  },
+  {
+    "ano": "2013",
+    "onde": "Reiter Log",
+    "o_que": "Gestão de TI, ERP, TMS e WMS para uma frota de 1.000 veículos"
+  },
+  {
+    "ano": "2014",
+    "onde": "BTL Soluções Logísticas",
+    "o_que": "Implantação do Avacorp, B.I. financeiro e criação do Infonotas"
+  },
+  {
+    "ano": "2014",
+    "onde": "ESPM-Sul",
+    "o_que": "MBA em Finanças e Governança Corporativa"
+  },
+  {
+    "ano": "2021",
+    "onde": "Transcol Transportes",
+    "o_que": "B.I. financeiro, Infonotas nas entregas e módulos no Latromi"
+  },
+  {
+    "ano": "2024",
+    "onde": "PUCRS",
+    "o_que": "Extensão em dados e IA aplicados à logística"
+  },
+  {
+    "ano": "2025",
+    "onde": "USP / Esalq",
+    "o_que": "MBA em Data Science & Analytics"
+  }
 ]
