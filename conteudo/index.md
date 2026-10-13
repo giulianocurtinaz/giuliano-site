@@ -1,6 +1,6 @@
 ---
 titulo: Giuliano Curtinaz
-descricao: Cientista de dados e consultor de T.I. especializado em logística, controladoria e indicadores de desempenho.
+descricao: Cientista de dados e consultor de T.I. especializado em logística, inteligência artificial aplicada, controladoria e indicadores de desempenho.
 classe: inicio
 ---
 
@@ -9,13 +9,15 @@ classe: inicio
 
 # Giuliano Curtinaz
 
-<p class="chamada">Dados, controladoria e sistemas para quem move carga.</p>
+<p class="chamada">Dados, inteligência artificial e controladoria para quem move carga.</p>
 
 Sou cientista de dados e consultor de T.I. especializado em logística, com sólida experiência em Controladoria e Ciência da Computação, atuando principalmente na implantação de sistemas logísticos. Apaixonado por indicadores de desempenho, concluí o MBA em Data Science & Analytics pela USP (2025) e o MBA em Finanças e Governança Corporativa pela ESPM.
 
+Uso inteligência artificial como ferramenta de trabalho no dia a dia: modelos preditivos para estimar prazos de entrega, automação de análises e de rotinas fiscais e assistentes de IA que aceleram o desenvolvimento de sistemas e a leitura de indicadores. Aprofundei esse tema na extensão em IA aplicada à logística pela PUCRS e no TCC do MBA da USP, sempre com o mesmo objetivo: transformar dados operacionais em decisões mais rápidas e mais precisas.
+
 Gosto de trabalhar no desenvolvimento e implantação de sistemas de Controladoria, apoiando comitês gestores e a alta administração no processo de tomada de decisão estratégica e operacional. Atuo de forma objetiva, com forte foco na redução de custos operacionais e na simplificação de processos.
 
-Com espírito inovador e empreendedor, busquei formação acadêmica em ciência de dados e finanças para complementar os conhecimentos em T.I. adquiridos em cursos oficiais Microsoft. Sou casado e pai.
+Com espírito inovador e empreendedor, busquei formação acadêmica em ciência de dados, inteligência artificial e finanças para complementar os conhecimentos em T.I. adquiridos em cursos oficiais Microsoft. Sou casado e pai.
 
 </div>
 <figure class="retrato">
