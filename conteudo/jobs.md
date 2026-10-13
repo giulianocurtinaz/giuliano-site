@@ -9,6 +9,19 @@ descricao: Empresas de referência onde Giuliano Curtinaz desenvolveu grandes pr
 
 <div class="linha-tempo" id="trajetoria" markdown="1">
 <article class="etapa" markdown="1">
+<p class="periodo">Março de 2022 até hoje</p>
+<img class="logo" src="/assets/img/logos/interlink-2022.png" alt="Interlink Cargo" width="388" height="153">
+<div markdown="1">
+
+Desenvolvedor de ferramenta de Business Intelligence (B.I.).
+
+Desenvolvimento no Latromi, com implantação e desenvolvimento de módulos personalizados.
+
+Atuação simultânea com a Transcol.
+
+</div>
+</article>
+<article class="etapa" markdown="1">
 <p class="periodo">Junho de 2021 até hoje</p>
 <img class="logo" src="/assets/img/logos/transcol.png" alt="Transcol Transportes Ltda." width="360" height="183">
 <div markdown="1">
@@ -18,6 +31,8 @@ Desenvolvedor de ferramenta de Business Intelligence (B.I.) com foco em demonstr
 Implantação do aplicativo [Infonotas](/jobs/infonotas.html) para baixa de entregas e controle de cross-docking.
 
 Desenvolvimento no Latromi, com implantação e desenvolvimento de módulos personalizados.
+
+Atuação simultânea com a Interlink.
 
 </div>
 </article>
