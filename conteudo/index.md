@@ -64,6 +64,6 @@ Com espírito inovador e empreendedor, busquei formação acadêmica em ciência
 
 O trabalho de conclusão do MBA na USP estudou o prazo de entrega no transporte rodoviário internacional de cargas, com nota final 9,5 e indicação ao prêmio de melhor TCC.
 
-[Trabalhos acadêmicos](/tccs.html){.botao} [25 certificados](/certificados.html){.botao .botao-claro}
+[Trabalhos acadêmicos](/tccs.html){.botao} [26 certificados](/certificados.html){.botao .botao-claro}
 
 </section>

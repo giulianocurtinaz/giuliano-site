@@ -5,11 +5,12 @@ descricao: Certificados acadêmicos e de cursos em infraestrutura, desenvolvimen
 
 # Certificados
 
-<p class="chamada">25 certificados, de 2000 a 2024. Assinaturas e dados pessoais foram cobertos nas imagens.</p>
+<p class="chamada">26 certificados, de 2000 a 2026. Assinaturas e dados pessoais foram cobertos nas imagens.</p>
 
 <section class="grupo-cert">
 <h2>Acadêmicos</h2>
 <ul class="certificados">
+<li><a href="/assets/img/certificados/cert-26.jpg" data-grande="1" data-titulo="MBA em Data Science e Analytics, USP / Esalq, 2026"><img src="/assets/img/certificados/cert-26-mini.jpg" alt="Certificado: MBA em Data Science e Analytics" loading="lazy"></a><p><strong>MBA em Data Science e Analytics</strong><span>USP / Esalq, 2026</span></p></li>
 <li><a href="/assets/img/certificados/cert-01.jpg" data-grande="1" data-titulo="Extensão em Inteligência Artificial aplicada à Logística, PUCRS, 2024"><img src="/assets/img/certificados/cert-01-mini.jpg" alt="Certificado: Extensão em Inteligência Artificial aplicada à Logística" loading="lazy"></a><p><strong>Extensão em Inteligência Artificial aplicada à Logística</strong><span>PUCRS, 2024</span></p></li>
 <li><a href="/assets/img/certificados/cert-02.jpg" data-grande="1" data-titulo="MBA em Finanças e Governança Corporativa, ESPM-Sul, 2014"><img src="/assets/img/certificados/cert-02-mini.jpg" alt="Certificado: MBA em Finanças e Governança Corporativa" loading="lazy"></a><p><strong>MBA em Finanças e Governança Corporativa</strong><span>ESPM-Sul, 2014</span></p></li>
 <li><a href="/assets/img/certificados/cert-03.jpg" data-grande="1" data-titulo="Intensivo em Finanças Empresariais, ESPM-Sul, 2007"><img src="/assets/img/certificados/cert-03-mini.jpg" alt="Certificado: Intensivo em Finanças Empresariais" loading="lazy"></a><p><strong>Intensivo em Finanças Empresariais</strong><span>ESPM-Sul, 2007</span></p></li>
