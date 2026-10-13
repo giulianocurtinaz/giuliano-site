@@ -10,7 +10,7 @@ descricao: Empresas de referência onde Giuliano Curtinaz desenvolveu grandes pr
 <div class="linha-tempo" id="trajetoria" markdown="1">
 <article class="etapa" markdown="1">
 <p class="periodo">Março de 2022 até hoje</p>
-<img class="logo" src="/assets/img/logos/interlink-2022.png" alt="Interlink Cargo" width="388" height="153">
+<img class="logo" src="/assets/img/logos/interlink.png" alt="Interlink Cargo Transportes Internacionais" width="160" height="71">
 <div markdown="1">
 
 Desenvolvedor de ferramenta de Business Intelligence (B.I.).
